@@ -19,6 +19,6 @@ To analyze sales performance, customer behavior, and payment trends using SQL an
 - Built interactive Power BI dashboard.
 
 **Dashboard Preview**
- <img width="1540" height="694" alt="Screenshot 2026-03-25 174833" src="https://github.com/user-attachments/assets/2e7b9135-1cde-4fad-92bc-e175faf9fbab" />
+ <img width="1540" height="694" alt="dashboard" src="https://github.com/user-attachments/assets/7e68223a-81f8-4efe-b7dc-7a66534a26ea" />
 
 **Status: In progress**
