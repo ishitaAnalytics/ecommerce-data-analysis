@@ -1,4 +1,4 @@
-# ecommerce-data-analysis
+# Ecommerce-Data-Analysis
 SQL + Power BI project analyzing e-commerce data (in progress)
 
 **Objective**
