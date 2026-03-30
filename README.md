@@ -1,34 +1,86 @@
-# Ecommerce-Data-Analysis
-SQL + Power BI project analyzing e-commerce data (in progress)
+# 📊 E-commerce Data Analysis (SQL + Power BI)
 
-**> Objective**
-To analyze sales performance, customer behavior, and payment trends using SQL and visualize insights using Power BI.
+## 🔍 Objective
 
-**> Problem Statement**
-- Analyze e-commerce data to uncover trends in sales, customer behavior, and payment patterns to support business decision-making.
+To analyze e-commerce data and uncover insights related to sales performance, customer behavior, and payment trends using SQL and Power BI.
 
-**> Tools Used**
-- MySQL
-- Power BI
+---
 
-**> Project Structure**
-- sql_queries :SQL scripts for analysis.
-- dashboard :Power BI dashboard screenshots.
+## ❓ Problem Statement
 
-**> Work Done So Far**
-- Imported dataset into MySQL.
-- Performed joins between orders, customers, and payments.
-- Revenue and order trend analysis.
-- Built interactive Power BI dashboard.
+Analyze large-scale e-commerce transaction data to identify patterns in revenue, customer purchasing behavior, and payment preferences to support data-driven business decisions.
 
-**> Key Insights**
-- Total revenue shows a steady growth trend over time with peak sales during festive periods.
-- Majority of orders are concentrated in a few key states, indicating regional demand clusters.
-- Credit card is the most preferred payment method among customers.
-- Late deliveries are associated with lower customer satisfaction (based on delivery vs estimated time).
-- A small percentage of customers contribute to a large portion of total revenue (high-value customers).
+---
 
-**> Dashboard Preview**
-![Dashboard](dashboard/dashboard.png)
+## 🛠️ Tools & Technologies
 
-**> Status: In Progress**
+* MySQL
+* Power BI
+* DAX
+* Data Modeling
+
+---
+
+## 📁 Project Structure
+
+* `sql_queries/` → SQL scripts for data extraction and analysis
+* `dashboard/` → Power BI dashboard screenshots
+* `ecommerce_dashboard.pbix` → Interactive dashboard file
+
+---
+
+## 📊 Work Done
+
+* Imported and cleaned e-commerce dataset (~100K+ records) in MySQL
+* Performed joins across multiple tables (orders, customers, payments)
+* Analyzed revenue trends and order patterns using SQL queries
+* Built an interactive Power BI dashboard with KPI cards and filters
+* Created DAX measures including Average Order Value (AOV)
+
+---
+
+## 📈 Key Metrics
+
+* **Total Sales:** $15.42M
+* **Total Orders:** 96K
+* **Total Customers:** 99.44K
+* **Average Order Value (AOV):** $160.99
+
+---
+
+## 💡 Key Insights
+
+* Revenue shows a consistent upward trend over time
+* A few states contribute the majority of total orders
+* Credit cards are the most preferred payment method
+* High-value customers generate a large portion of revenue
+* Delivery delays impact customer satisfaction
+
+---
+
+## 📊 Dashboard Features
+
+* KPI Cards (Sales, Orders, Customers, AOV)
+* Monthly Revenue Trend
+* Top 10 Customers
+* Payment Method Distribution
+* Top 10 States by Orders
+* Interactive filters
+
+---
+
+## 🚀 How to Use
+
+1. Download the `.pbix` file
+2. Open in Power BI Desktop
+3. Interact with filters
+
+---
+
+## 📸 Dashboard Preview
+
+(Add screenshots here)
+
+---
+
+
