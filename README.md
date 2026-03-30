@@ -94,7 +94,7 @@ Analyze large-scale e-commerce transaction data to identify patterns in revenue,
 
 You can download and explore the full interactive dashboard here:
 
-> [Download PBIX File](powerbi/ecommerce_dashboard.pbix)
+> [Download PBIX File](powerbi/Project_ecommerce.pbix)
 
 
 
