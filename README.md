@@ -1,18 +1,18 @@
 # 📊 E-commerce Data Analysis (SQL + Power BI)
 
-## 🔍 Objective
+## > Objective
 
 To analyze e-commerce data and uncover insights related to sales performance, customer behavior, and payment trends using SQL and Power BI.
 
 ---
 
-## ❓ Problem Statement
+## > Problem Statement
 
 Analyze large-scale e-commerce transaction data to identify patterns in revenue, customer purchasing behavior, and payment preferences to support data-driven business decisions.
 
 ---
 
-## 🛠️ Tools & Technologies
+## > Tools & Technologies
 
 * MySQL
 * Power BI
@@ -21,7 +21,7 @@ Analyze large-scale e-commerce transaction data to identify patterns in revenue,
 
 ---
 
-## 📁 Project Structure
+## > Project Structure
 
 * `sql_queries/` → SQL scripts for data extraction and analysis
 * `dashboard/` → Power BI dashboard screenshots
@@ -29,7 +29,7 @@ Analyze large-scale e-commerce transaction data to identify patterns in revenue,
 
 ---
 
-## 📊 Work Done
+## > Work Done
 
 * Imported and cleaned e-commerce dataset (~100K+ records) in MySQL
 * Performed joins across multiple tables (orders, customers, payments)
@@ -39,7 +39,7 @@ Analyze large-scale e-commerce transaction data to identify patterns in revenue,
 
 ---
 
-## 📈 Key Metrics
+## > Key Metrics
 
 * **Total Sales:** $15.42M
 * **Total Orders:** 96K
@@ -48,7 +48,7 @@ Analyze large-scale e-commerce transaction data to identify patterns in revenue,
 
 ---
 
-## 💡 Key Insights
+## > Key Insights
 
 * Revenue shows a consistent upward trend over time
 * A few states contribute the majority of total orders
@@ -58,7 +58,7 @@ Analyze large-scale e-commerce transaction data to identify patterns in revenue,
 
 ---
 
-## 📊 Dashboard Features
+## > Dashboard Features
 
 * KPI Cards (Sales, Orders, Customers, AOV)
 * Monthly Revenue Trend
@@ -69,7 +69,7 @@ Analyze large-scale e-commerce transaction data to identify patterns in revenue,
 
 ---
 
-## 🚀 How to Use
+## > How to Use
 
 1. Download the `.pbix` file
 2. Open in Power BI Desktop
@@ -77,7 +77,7 @@ Analyze large-scale e-commerce transaction data to identify patterns in revenue,
 
 ---
 
-## 📊 Dashboard Preview
+## > Dashboard Preview
 
 ### 🔹 Overview Dashboard
 ![Overview](dashboard/overview.png)
@@ -90,11 +90,11 @@ Analyze large-scale e-commerce transaction data to identify patterns in revenue,
 
 ---
 
-## 📁 Power BI Dashboard File
+## > Power BI Dashboard File
 
 You can download and explore the full interactive dashboard here:
 
-👉 [Download PBIX File](powerbi/ecommerce_dashboard.pbix)
+> [Download PBIX File](powerbi/ecommerce_dashboard.pbix)
 
 
 
