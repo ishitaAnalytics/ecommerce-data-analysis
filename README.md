@@ -77,9 +77,16 @@ Analyze large-scale e-commerce transaction data to identify patterns in revenue,
 
 ---
 
-## 📸 Dashboard Preview
+## 📊 Dashboard Preview
 
-(Add screenshots here)
+### 🔹 Overview Dashboard
+![Overview](dashboard/overview.png)
+
+### 🔹 Top Customers Analysis
+![Top Customers](dashboard/top_customers.png)
+
+### 🔹 Business Insights
+![Business Insights](dashboard/business_insights.png)
 
 ---
 
