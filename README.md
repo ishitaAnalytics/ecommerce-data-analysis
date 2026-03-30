@@ -25,7 +25,7 @@ Analyze large-scale e-commerce transaction data to identify patterns in revenue,
 
 * `sql_queries/` → SQL scripts for data extraction and analysis
 * `dashboard/` → Power BI dashboard screenshots
-* `ecommerce_dashboard.pbix` → Interactive dashboard file
+* `Project_ecommerce.pbix` → Interactive dashboard file
 
 ---
 
